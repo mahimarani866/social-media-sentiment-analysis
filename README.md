@@ -23,7 +23,5 @@ Simple end-to-end sentiment analysis project on ~12K synthetic social media post
   - `data/brand_sentiment_summary.csv`
 - `brand_insights.py` – prints simple brand sentiment insights
 
-## Example Interview Summary
-> I built a small NLP pipeline that analyzes around 12K synthetic social posts for four brands.  
-> I used TF-IDF to convert text into features and trained a Logistic Regression classifier to predict sentiment (Positive/Negative/Neutral).  
-> Then I aggregated the predictions into brand-level sentiment KPIs and added a script to generate simple insights for brand monitoring.
+
+
